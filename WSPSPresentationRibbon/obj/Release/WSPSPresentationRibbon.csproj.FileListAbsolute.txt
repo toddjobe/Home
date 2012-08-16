@@ -1,0 +1,28 @@
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\WSPSPresentationRibbon.dll
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\WSPSPresentationRibbon.pdb
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\WSPSPresentationRibbon.tlb
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\NetOffice.dll
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\OfficeApi.dll
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\PowerPointApi.dll
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\VBIDEApi.dll
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\NetOffice.xml
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\OfficeApi.xml
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\PowerPointApi.xml
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\bin\Release\VBIDEApi.xml
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\obj\Release\WSPSPresentationRibbon.dll
+C:\Users\TJobe\AppData\Local\Temporary Projects\WSPS\obj\Release\WSPSPresentationRibbon.pdb
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\WSPSPresentationRibbon.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\WSPSPresentationRibbon.pdb
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\WSPSPresentationRibbon.tlb
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\NetOffice.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\OfficeApi.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\PowerPointApi.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\VBIDEApi.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\NetOffice.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\OfficeApi.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\PowerPointApi.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\Release\VBIDEApi.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\obj\Release\WSPSPresentationRibbon.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\obj\Release\WSPSPresentationRibbon.pdb

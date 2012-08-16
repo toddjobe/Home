@@ -1,0 +1,4 @@
+C:\Users\TJobe\Documents\Visual Studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbonDebugEnv\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TJobe\Documents\Visual Studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbonDebugEnv\obj\x86\Release\WSPSPresentationRibbonDebugEnv.Properties.Resources.resources
+C:\Users\TJobe\Documents\Visual Studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbonDebugEnv\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TJobe\Documents\Visual Studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbonDebugEnv\obj\x86\Release\GenerateResource.write.1.tlog

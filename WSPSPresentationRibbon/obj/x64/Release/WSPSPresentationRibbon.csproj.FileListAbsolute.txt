@@ -1,0 +1,13 @@
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\WSPSPresentationRibbon.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\WSPSPresentationRibbon.pdb
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\NetOffice.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\OfficeApi.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\PowerPointApi.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\VBIDEApi.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\NetOffice.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\OfficeApi.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\PowerPointApi.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\bin\x64\Release\VBIDEApi.xml
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\obj\x64\Release\WSPSPresentationRibbon.dll
+C:\Users\TJobe\documents\visual studio 2010\Projects\WSPSPresentationRibbon\WSPSPresentationRibbon\obj\x64\Release\WSPSPresentationRibbon.pdb
